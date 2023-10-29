@@ -1,4 +1,4 @@
-- 👋 Hi, there
+- 👋 Hi, there...
 - 👀 I'm an engineer with an interest in software development.
 - 🌱I'm currently learning:
       - Data Structures and Algorithms on [Leetcode](https://leetcode.com/shaficode/)
