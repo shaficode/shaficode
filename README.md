@@ -1,4 +1,4 @@
-align="left" ![logo](https://github.com/shaficode/shaficode/blob/main/github-header-image.png)
+![logo](https://github.com/shaficode/shaficode/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Mohammad Shafiur Rhaman</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 
