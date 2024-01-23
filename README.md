@@ -1,5 +1,5 @@
 ![logo](https://github.com/shaficode/shaficode/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Mohammad Shafiur Rhaman</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Shafiur Rahman</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 
 <img align="right" alt="coding" widht="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
